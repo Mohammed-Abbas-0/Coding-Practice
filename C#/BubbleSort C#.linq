@@ -7,7 +7,7 @@ void Main()
 
 public class Bubble
 {
-	// Bubble Sort o(N)
+	// Bubble Sort o(N*2)
 	public static int[] sort(int[] arr)
 	{
 		
